@@ -13,7 +13,7 @@
 		"test": "./node_modules/mocha/bin/mocha"
 	},
 	"dependencies": {
-		"jonapiserializer": "^0.1.0"
+		"jonapiserializer": "spuun/node-jonapiserializer"
 	},
 	"devDependencies": {
 		"mocha": "^2.4.5"
