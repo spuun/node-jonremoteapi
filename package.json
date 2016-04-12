@@ -2,9 +2,10 @@
 	"name": "jonremoteapi",
 	"description": "Abstracts API over e.g. network",
 	"version": "0.1.0",
-	"author": "Jon Börjesson <jon@spuun.se>",
+	"author": "Jon Börjesson <jon@spuun.se> (http://spuun.se)",
 	"main": "./lib/index.js",
 	"license": "MIT",
+	"repository": "spuun/node-jonremoteapi", 
 	"scripts": {
 		"test": "./node_modules/mocha/bin/mocha"
 	},

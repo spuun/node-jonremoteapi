@@ -1,0 +1,6 @@
+language: node_js
+node_js:
+  - "5"
+notifications:
+  email:
+    - "jon@spuun.se"
